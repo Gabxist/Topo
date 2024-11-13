@@ -1,6 +1,6 @@
 JOB,     CT03,
-INST    station
-UNITS   M,D
+INST,    station
+UNITS,   M,D
 STN,     PT05,1.560,
 XYZ,     0.000,0.000,0.000
 BS,      PT04,1.500,
